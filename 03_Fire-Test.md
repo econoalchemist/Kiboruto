@@ -6,6 +6,6 @@ Any stainless steel backup should be able to withstand fire or flooding. Testing
 The Kiboruto successfully secured the vital information needed in order to restore the Samourai Wallet and regain access to the bitcoin. The seed phrase is 100% recoverable and even most of the etching survived.  
 
 <p align="center">
-<src img="assets/kiboruto03.JPG">
-<src img="assets/kiboruto04.JPG">
+<img src="assets/kiboruto03.JPG">
+<img src="assets/kiboruto04.JPG">
 </p>
