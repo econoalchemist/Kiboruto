@@ -9,3 +9,5 @@ The Kiboruto successfully secured the vital information needed in order to resto
 <img src="assets/kiboruto03.JPG">
 <img src="assets/kiboruto04.JPG">
 </p>
+
+The next section will demonstrate how to restore your Samourai Wallet using only your Kiboruto backup information. 
