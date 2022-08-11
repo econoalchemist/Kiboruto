@@ -4,5 +4,5 @@ The Kiboruto stainless steel backup was designed specifically for your Samourai 
 
 Here is a video on how to setup your Samourai Wallet for the first time and get the seed words that you will later stamp into your Kiboruto. Please note that the wallet version (0.99.96g) used in this video has since been updated to a newer version with a detailed explainer introduction. The new version will be showcased later in the guide when demonstrating how to recover your seed words. 
 
-(insert setup video)
+[![Kiboruto Setup](/assets/Thumbnail-Setup_01.png)](https://media.econoalchemist.com/w/o1JpW9rYCNGgjdztcGzYAK "Setting up Samourai wallet for Kiboruto")
 
