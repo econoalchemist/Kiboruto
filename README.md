@@ -1,7 +1,7 @@
 # Kiboruto
 Kiboruto is the tailor made stainless steel backup for your [Samourai Wallet](https://samouraiwallet.com/).
 
-This guide demonstrates how to setup a fresh Samourai Wallet on Android and secure the seed phrase in a robust stainless steel backup made by [@Crazyk_031](https://twitter.com/Crazyk_031) & [@stackbitme](https://twitter.com/stackbitme).
+This guide demonstrates how to setup a fresh Samourai Wallet on Android and secure the seed phrase in a robust stainless steel backup made by [@Crazyk_031](https://twitter.com/Crazyk_031) & [@stackbitme](https://twitter.com/stackbitme). You can find the Kiboruto and more at [https://crazyk3d.com/](https://crazyk3d.com/)
 
 <p align="center">
 <img src="assets/title_image.JPG">
