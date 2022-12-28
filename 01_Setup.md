@@ -6,4 +6,4 @@ Here is a video on how to setup your Samourai Wallet for the first time and get 
 
 [![Kiboruto Setup](/assets/Thumbnail-Setup_01.png)](https://media.econoalchemist.com/w/o1JpW9rYCNGgjdztcGzYAK "Setting up Samourai wallet for Kiboruto")
 
-The next section will walk you through how to stamp your Samourai wallet backup information into your Kiboruto. 
+The next section will walk you through how to stamp your Samourai wallet backup information into your Kiboruto. You can download Samourai Wallet for your Android device directly from the [Samourai Wallet website](https://samouraiwallet.com/download) or use either the F-droid repository option or Google Play Store option listed on the website as well.   
